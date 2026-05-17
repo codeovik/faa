@@ -1,0 +1,22 @@
+{
+  "github": {
+    "url": "https://github.com/codeovik",
+    "title": "GitHub Profile"
+  },
+  "portfolio": {
+    "url": "https://ovik.dev",
+    "title": "Portfolio Website"
+  },
+  "resume": {
+    "url": "https://drive.google.com/file/d/xxxxxxxx/view",
+    "title": "Resume"
+  },
+  "youtube": {
+    "url": "https://youtube.com/@codeovik",
+    "title": "YouTube Channel"
+  },
+  "fiverr": {
+    "url": "https://fiverr.com/codeovik",
+    "title": "Fiverr Profile"
+  }
+}
